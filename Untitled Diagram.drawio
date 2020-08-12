@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2020-08-12T07:06:11.579Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="I5byVFs4YPqSVhyinggC" version="13.6.2" type="github"><diagram name="Page-1" id="2ca16b54-16f6-2749-3443-fa8db7711227">7V3dc9o4EP9reMyNLdt8PJI06d1kOte5du7aR4GE8dS2qBAJ9K8/yZb8CcR8FZts8oC9Wksr7Wr127UQPechWn/keDH/xAgNe8gi657zoYeQ7VpD+aEom5TSH41Sgs8DoplywpfgF9VES1NXAaHLEqNgLBTBokycsjimU1GiYc7Za5ltxsJyqwvs0xrhyxSHdep/ARFzTbUtKy/4kwb+XDc99HTBBE9/+JytYt1eDzmz5C8tjrCpS/Mv55iw1wLJeew5D5wxkV5F6wcaqrE1w5Y+97SjNJOb01g0eQBR4iA6sxAezFzZjztdwwsOV9R0oR/Kuu5J8KIEFhs9SP2fKyXl/YSt75bBryD2e854wjih/E7SZMlrOnTjZNg8xVoYnbEcGuqqf1mwwISkFaCFejKvXV756vMrnoQ0xhE14sg+JRKlxYYqFNtWMWvCzFgslOBUEWlUadWayoHKxCrUg2pcywWeVrmseg8yEXmNQgzl83Ohezm5zriKg58r+hfZy66I9cb2NP/0bDdsf8a4NP/4mW7OK0HT5gMakoo1NGxdEVMjMXRUshf0QrkIpCsYh7KDkiTYQrJhfRfSmXqKSa5ZmMzcWSBnlHM/F5H8+GDLy8TCqZphlrzLpri6mbIomOrrEE9oeJ9NiQcWMi6LYhZT9Zjg7EfmfWxtsE84CkLlVP+lnOAYa7L2oDaqz38zoWWv6LpA0v7gI2URFVyq0VpnXi59ZGN8sr5/LXjCoabNC05wpGlYO18/qzp3QPJC+6Cm/mhYUxAl0lfrW8bFnPksxuFjTi3qQo4D33xTI/6HZ26/awUQvJwnarIbaANzMVYri6Q9/hPhmPydFNCY5GTJ+5V9wvGmqbZqdrVTf0u24lO6Y5C02qWMPhU7ePQ4qsHbawWchlgEL+WF8LwqHZ2m0haqLbeyko0lJnc5lZqJej6dJo/KgcGbAsOCBbFYFmr+rAi5w/BGZYeB+hXMUeEf2KfxO3L5LttfKnFujVnXjzPQDJzdjoFe0Ajt1jgWdBp2VfA9h6/IShGewY3yUkNHU1JBs1YOaA1HDmvljUK2l4O1dfGK+FaVSoj7e/DthJENgN5Wgd4mrU+2QuVD5GlYwykaOlzIms5uX0pF3DYJIfR5I/Rx+0eGPrZzkdinfxoO6TL0cBpAD7c9yAOdGKWuA5GFD/I6jR4GWcT6rRjN5qHFzQDNYQNtO63RtgM4E3Am4MxO4kzARkdio2pa2HOvmRZ2wQWDCwYXDC74Pbtg177qmznvxJhnz5u5LscyXqciV++0hRT2e8B+j3avh7CqHLiqIO+aq0ofgD0Ae3BknX33BFKClCDlbUsJAfyRUGvolKFWv+n7ZWR5F8BaA8BagLUAa3UyiQorxU2vFNWdSP1hw5Uii+bPm+sd3Hqut7SV5rjEb5NNLIPWJH6HsPjD4g+Lf2eXVpASpAQpQcp2S3m8iL8rWGq/hKDp9yJhezQNgfuZAnfUNHB3LvIVohFs70muYHvPjQZr4JAOfOfkjq65vSdLpMFxLrsTiSaFuzeTOGpNJtGIC6nEpHFIJcLq1C2w330pjxfx/YV2ICXYJEh4aIwByZAzxB6o6RfWkHuRXQxwuG1aHWRDbhRvgkc60CNdNRliegSBc9I4BM7gyLoDCkFCANat+c5u8+3BlzmocNuJaKel+Xek4Xcm7vcr6shTvc2pfOm7Bn0u31uvIY7M+TdI+XsNU/5FI7C2GYEhHnYueO1gbscrW6EzqBhX2mP9VG5ftYrcSkWoWlE6LLWKem8e9i1v8x9TSdnzX6xxHv8H</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-12T08:08:10.373Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="XOl9ZiMcTQ-f3OcQp0rv" version="13.6.2" type="github">
+  <diagram name="Page-1" id="2ca16b54-16f6-2749-3443-fa8db7711227">
+    <mxGraphModel dx="830" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="am9GFtjO-R5KPZmgALTH-10" value="Opettaja" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="69" y="19" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="am9GFtjO-R5KPZmgALTH-11" value="OpeId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="am9GFtjO-R5KPZmgALTH-10">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="am9GFtjO-R5KPZmgALTH-12" value="Etunimi" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="am9GFtjO-R5KPZmgALTH-10">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="am9GFtjO-R5KPZmgALTH-13" value="Sukunimi&#xa;&#xa;email" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="am9GFtjO-R5KPZmgALTH-10">
+          <mxGeometry y="78" width="160" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="am9GFtjO-R5KPZmgALTH-25" value="Relation" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="am9GFtjO-R5KPZmgALTH-11" target="am9GFtjO-R5KPZmgALTH-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="160" as="sourcePoint" />
+            <mxPoint x="420" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="am9GFtjO-R5KPZmgALTH-26" value="0..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="am9GFtjO-R5KPZmgALTH-25">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="am9GFtjO-R5KPZmgALTH-27" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="am9GFtjO-R5KPZmgALTH-25">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="am9GFtjO-R5KPZmgALTH-15" value="Kurssit" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="19" width="140" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="am9GFtjO-R5KPZmgALTH-20" value="Kurssitunnus" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="am9GFtjO-R5KPZmgALTH-15">
+          <mxGeometry y="26" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="am9GFtjO-R5KPZmgALTH-23" value="fk_OpeId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="am9GFtjO-R5KPZmgALTH-15">
+          <mxGeometry y="56" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="am9GFtjO-R5KPZmgALTH-18" value="Kurssi" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="am9GFtjO-R5KPZmgALTH-15">
+          <mxGeometry y="86" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="am9GFtjO-R5KPZmgALTH-17" value="aika" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="am9GFtjO-R5KPZmgALTH-15">
+          <mxGeometry y="116" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="am9GFtjO-R5KPZmgALTH-21" value="Paikka" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="am9GFtjO-R5KPZmgALTH-15">
+          <mxGeometry y="142" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="am9GFtjO-R5KPZmgALTH-30" value="1 Mira Vorne mira.vorne@eduvantaa.fi&lt;br&gt;2 Juri Surakka juri.surakka@eduvantaa.fi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="am9GFtjO-R5KPZmgALTH-31" value="a 1 Sulautetut järjestelmät ny täällä&lt;br&gt;b 2 Cyberturv. huome tuolla" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="230" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
